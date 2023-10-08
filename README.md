@@ -1,5 +1,5 @@
 ### Welcome! 👋
-Currently on the 4th year of my Computer Science Bachelor's Degree. I speak english and spanish.
+Currently on the 5th year of my Computer Science Bachelor's Degree. I speak english and spanish.
 
 
 #### Known languages
