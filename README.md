@@ -1,6 +1,9 @@
 ### Welcome! 👋
 I'm a Junior Software Engineer with a BSc. in Computer Science. I speak english and spanish.
 
+Check out my latest project:
+https://learn-type-matchups.vercel.app/
+
 
 #### Known languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
